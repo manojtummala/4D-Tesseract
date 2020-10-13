@@ -1,5 +1,5 @@
 # 4D-Tesseract
-<p align="center"><img src="sketch_4D_Tesseract/Capture3.PNG"></p>
+<p align="center"><img src="sketch_4D_Tesseract/Capture 3.PNG"></p>
 
 This is a four dimensional cube, otherwise called a hyper-cube or a tesseract. Just note this is technically a tesseract because our screens are two dimensional and cannot hold three dimensional objects. Instead this is just a tesseract projected into three dimensions, and then into two dimensions. Also we are three dimensional creatures, so it is not possible for us to imagine the fourth dimension.
 
